@@ -95,7 +95,6 @@ FAISS-vector-database-for-RAG-training/
 │   ├── knowledge.index
 │   ├── metadata.json
 │   └── config.json
-├── requirements.txt
 └── README.md
 ```
 
