@@ -1,0 +1,21 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "vector_dimension": 384,
+  "total_vectors": 311,
+  "distance_metric": "cosine_similarity",
+  "source_files": [
+    "Agno Development knowledge_chunks.jsonl",
+    "Astro Development knowledge_chunks.jsonl",
+    "Azure Data Factory + ADLS Gen2 + Event Hubs + Azure Functions knowledge_chunks.jsonl",
+    "Databricks Development & Lakehouse knowledge_chunks.jsonl",
+    "Hermes Agent knowledge_chunks.jsonl",
+    "nightly knowledge_chunks.jsonl",
+    "Ollama Development knowledge_chunks.jsonl",
+    "OpenClaw Development knowledge_chunks.jsonl",
+    "OpenFang Development knowledge_chunks.jsonl",
+    "PySpark Development knowledge_chunks.jsonl",
+    "pytest knowledge_chunks (1).jsonl",
+    "swarms-RS Development knowledge_chunks.jsonl",
+    "terraform knowledge_chunks.jsonl"
+  ]
+}
